@@ -17,7 +17,7 @@ This script generates a cynical and ironic LinkedIn post based on the latest tre
 1. Clone the Repository
 ```bash
 git clone https://github.com/rsc-dev/linkedin-post-bot
-cd your-repo-name
+cd linkedin-post-bot
 ```
 
 2. Set Up Environment Variables
