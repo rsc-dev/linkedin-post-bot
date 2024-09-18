@@ -49,12 +49,13 @@ Activate the Poetry shell:
 
 
 ```bash
+cd src
 poetry shell
 ```
 
 Run the script:
 ```bash
-python script.py
+python linkedin-post-bot.py
 ```
 
 ## How It Works
